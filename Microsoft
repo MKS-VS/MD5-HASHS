@@ -151,7 +151,6 @@
 0.0.0.0 config.scm.windowsphone.com                    #App     Windows Phone (From Win 10 Tower)
 0.0.0.0 ess.windowsphone.net                           #App     Windows Phone (From Win 10 Tower)
 0.0.0.0 windowsphone.xbox.com                          #App     Windows Phone (From Win 10 Tower)
-0.0.0.0 
 0.0.0.0 api.bing.com                                   #Bing
 0.0.0.0 bingapis.com                                   #Bing
 0.0.0.0 bing.com                                       #Bing
@@ -165,14 +164,11 @@
 0.0.0.0 windowssearch.com                              #Bing
 0.0.0.0 maps.windows.com                               #Bing Maps
 0.0.0.0 bingwallpaper.microsoft.com                    #Bing - Downloads wallpaper for Windows 11 (Waste of Bandwidth)
-0.0.0.0 
 0.0.0.0 xboxab.com                                     #Games -  Game Bar Overlay
 0.0.0.0 activation2.playready.microsoft.com            #Games -  Pirate Prevention
 0.0.0.0 playready.microsoft.com                        #Games -  Pirate Prevention
-0.0.0.0 
 0.0.0.0 r20swj13mr.microsoft.com                       #Internet Explorer - After Updating
 0.0.0.0 ie11welcome.microsoft.com                      #Internet Explorer
-0.0.0.0 
 0.0.0.0 6to4.ipv6.microsoft.com                        #IPV6
 0.0.0.0 hipipv6-eu1-prod.cloudapp.net                  #IPV6
 0.0.0.0 ipv6.login.live.com                            #IPV6
@@ -186,7 +182,6 @@
 0.0.0.0 win1710.ipv6.microsoft.com                     #IPV6
 0.0.0.0 win8.ipv6.microsoft.com                        #IPV6
 0.0.0.0 www2.bing.com                                  #IPV6
-0.0.0.0 
 0.0.0.0 api.userstore.skype.com                        #Microsoft Teams
 0.0.0.0 cxcs.microsoft.net                             #Microsoft Teams
 0.0.0.0 sfbassets.com                                  #Microsoft Teams
@@ -195,7 +190,6 @@
 0.0.0.0 teams.live.com                                 #Microsoft Teams
 0.0.0.0 teams.microsoft.com                            #Microsoft Teams
 0.0.0.0 teams.microsoft.us                             #Microsoft Teams
-0.0.0.0 
 0.0.0.0 acer17win10.msn.com                            #MSN - Redirects to msn.com
 0.0.0.0 dell15.msn.com                                 #MSN - Redirects to msn.com
 0.0.0.0 hp13.us.msn.com                                #MSN - Redirects to msn.com
@@ -237,13 +231,10 @@
 0.0.0.0 weather.microsoft.com                          #Tiles - Win 10 / 11
 0.0.0.0 weather.services.appex.bing.com                #Tiles - Win 10 / 11
 0.0.0.0 weather.tile.appex.bing.com                    #Tiles - Win 10 / 11
-0.0.0.0 
 0.0.0.0 westus.tts.speech.microsoft.com                #Text To Speech API
-0.0.0.0 
 0.0.0.0 toolbar.msn.com                                #Toolbar - MSN
 0.0.0.0 ie9cvlist.ie.microsoft.com                     #Toolbar - Uninstall
 0.0.0.0 iecvlist.microsoft.com                         #Toolbar - Uninstall
-0.0.0.0 
 0.0.0.0 cdf-anon.gtm.xboxlive.com                      #Xbox
 0.0.0.0 cdf-anon.xboxlive.com.edgekey.net              #Xbox
 0.0.0.0 cdf-anon.xboxlive.com                          #Xbox
@@ -255,22 +246,13 @@
 0.0.0.0 settings-ssl.xboxlive.com                      #Xbox
 0.0.0.0 x1ds.xboxlive.com                              #Xbox
 0.0.0.0 xnotify.xboxlive.com                           #Xbox
-0.0.0.0 
 0.0.0.0 yammer.com                                     #Yammer
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
 0.0.0.0 acompli.net                                    #Defunct - Outlook Mobile Apps
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 ###############################################################################################
-0.0.0.0 ############################           BELOW = UNCERTAIN           ############################
-0.0.0.0 ###############################################################################################
-0.0.0.0 
-0.0.0.0 
+###############################################################################################
+############################           BELOW = UNCERTAIN           ############################
+###############################################################################################
 0.0.0.0 bg1.v4.a.dl.ws.microsoft.com                   # ? App Store - Window 8
 0.0.0.0 bg.v4.emdl.ws.microsoft.com                    # ? App Store - Window 8
-0.0.0.0 
 0.0.0.0 config.edge.skype.com.trafficmanager.net       #? Edge
 0.0.0.0 config-edge-skype.l-0014.l-msedge.net          #? Edge
 0.0.0.0 l-0014.config.skype.com                        #? Edge
@@ -278,7 +260,6 @@
 0.0.0.0 api.edgeoffer.microsoft.com                    #? Edge
 0.0.0.0 edgeoffer.microsoft.com                        #? Edge
 0.0.0.0 spov-msedge.net                                #? Edge
-0.0.0.0 
 0.0.0.0 cds1204.lon.llnw.net                           # ? Limelight Networks (CDN)
 0.0.0.0 cds1289.lon.llnw.net                           # ? Limelight Networks (CDN)
 0.0.0.0 cds1293.lon.llnw.net                           # ? Limelight Networks (CDN)
@@ -295,7 +276,6 @@
 0.0.0.0 cds459.lcy.llnw.net                            # ? Limelight Networks (CDN)
 0.0.0.0 cds494.lcy.llnw.net                            # ? Limelight Networks (CDN)
 0.0.0.0 cds965.lon.llnw.net                            # ? Limelight Networks (CDN)
-0.0.0.0 
 0.0.0.0 search.yupimsn.com                             # ? MSN - Search
 0.0.0.0 carrentals.msn.com                             # ? MSN
 0.0.0.0 cdn.content.prod.cms.msn.com                   # ? MSN
@@ -321,7 +301,6 @@
 0.0.0.0 rpt.msn.com                                    # ? MSN
 0.0.0.0 sam.msn.com                                    # ? MSN
 0.0.0.0 tk2.plt.msn.com                                # ? MSN
-0.0.0.0 
 0.0.0.0 onmicrosoft.com                                # ? Office - 365
 0.0.0.0 shell.cdn.office.net                           # ? Office - Facebook, Inc. ????  (https://shell.cdn.office.net/shellux/o365/versionless/suiteux.shell.responsive.7cd9b6321d8ca495e2c7.js)
 0.0.0.0 fpastorage.cdn.office.net                      # ? Office - First Party App Addins
@@ -374,26 +353,18 @@
 0.0.0.0 webshell.suite.office.com                      # ? Office
 0.0.0.0 wise.public.cdn.office.net                     # ? Office
 0.0.0.0 yyz-efz.ms-acdc.office.com                     # ? Office
-0.0.0.0 
 0.0.0.0 contacts.msn.com                               # ? Hotmail / Outlook - Contacts
 0.0.0.0 rdr.contacts.msn.com                           # ? Hotmail / Outlook - Contacts
-0.0.0.0 
 0.0.0.0 o.xbox.com                                     # ? Tracking (Blank)
-0.0.0.0 
 0.0.0.0 amp-test.com                                   # ? On msn.com
 0.0.0.0 udc.amp-test.com                               # ? On msn.com
-0.0.0.0 
 0.0.0.0 aadrm.com                                      # ? Defunct
 0.0.0.0 msantispy.com                                  # ? Defunct
 0.0.0.0 msecn.net                                      # ? Defunct
 0.0.0.0 msnhome.org                                    # ? Defunct
-0.0.0.0 
 0.0.0.0 config.edge.skype.com                          # ? Edge
-0.0.0.0 
 0.0.0.0 client.prod.repmap.microsoft.com               # Captcha ?
-0.0.0.0 
 0.0.0.0 inv.mp.microsoft.com                           #Store layout ?
-0.0.0.0 
 0.0.0.0 acctcdnvzeuno.azureedge.net                    #Azure
 0.0.0.0 azureedge.net                                  #Azure
 0.0.0.0 bastion.azure.com                              #Azure
@@ -405,18 +376,12 @@
 0.0.0.0 odinvzc.azureedge.net                          #Azure
 0.0.0.0 onecs-live.azureedge.net                       #Azure
 0.0.0.0 owassets.azureedge.net                         #Azure
-0.0.0.0 
 0.0.0.0 gameclipscontent-d2006.media.xboxlive.com      #Xbox
 0.0.0.0 gameclipscontent-t2006.xboxlive.com            #Xbox
 0.0.0.0 lfghub-anonymous.xboxlive.com                  #Xbox
 0.0.0.0 privacy.xboxlive.com                           #Xbox
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 ###############################################################################################
-0.0.0.0 ###############################################################################################
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
+###############################################################################################
+###############################################################################################
 0.0.0.0 a-0003.a-msedge.net
 0.0.0.0 aad.cs.dds.microsoft.com
 0.0.0.0 access-point.cloudmessaging.edge.microsoft.com
